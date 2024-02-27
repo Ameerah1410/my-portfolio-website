@@ -91,7 +91,7 @@ const projectsData = [
       "This application was built using Next.js and styled with Tailwind CSS.",
     image: "/images/projects/portfolio-1.jpg",
     tag: ["All", "Next"],
-    gitUrl: "https://github.com/Ameerah1410/portfolio-website-nextjs",
+    gitUrl: "https://github.com/Ameerah1410/my-portfolio-website",
   },
 ];
 

@@ -20,6 +20,7 @@ const TAB_DATA = [
         <li>MongoDB</li>
         <li>Jest</li>
         <li>Git</li>
+        <li>REST APIs</li>
       </ul>
     ),
   },

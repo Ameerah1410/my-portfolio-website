@@ -54,10 +54,10 @@ const About = () => {
             About Me
           </h2>
           <p className="text-base lg:text-lg ">
-            I recently got into full-stack web development because I'm
+            I recently got into full-stack web development because I&apos;m
             passionate about creating dynamic and adaptable web applications. I
-            love picking up new skills and I'm looking for oppoprtunites that
-            will help me level up and broaden my skill set.
+            love picking up new skills and I&apos;m looking for oppoprtunites
+            that will help me level up and broaden my skill set.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

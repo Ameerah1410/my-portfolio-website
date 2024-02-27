@@ -14,11 +14,11 @@ const ContactSection = () => {
   return (
     <div id="contact">
       <h1 className="text-center text-4xl font-bold text-white mt-8 mb-8 md:mb-12">
-        Let's Connect
+        Let&apos;s Connect
       </h1>
       <p className="text-center text-xl font-bold text-white mt-4 mb-8 md:mb-12">
-        I'm currently looking for new opportunities. If you have a question or
-        want to get in touch, feel free to contact me!
+        I&apos;m currently looking for new opportunities. If you have a question
+        or want to get in touch, feel free to contact me!
       </p>
 
       <div className="text-white">

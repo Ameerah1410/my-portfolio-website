@@ -28,7 +28,7 @@ function HeroSection() {
           <div>
             <button className="px-1 py-1 w-full sm:w-fit rounded-full mr-4 bg-transparent hover:bg-slate-800 bg-gradient-to-br from-secondary-500 to-primary-500 text-white border mt-3">
               <a
-                href="/AmeerahMoos-FullstackWebDev-CV.pdf"
+                href="/AmeerahMoosCV.pdf"
                 alt="alt text"
                 target="_blank"
                 rel="noopener noreferrer"
